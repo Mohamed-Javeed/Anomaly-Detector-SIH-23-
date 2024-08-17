@@ -92,7 +92,3 @@ Contributions are welcome! Please fork the repository, make your changes, and su
 ## Contact
 
 For any queries or issues, please reach out via [GitHub Issues](https://github.com/Mohamed-Javeed/Anomaly-Detector-SIH-23/issues).
-
----
-
-Feel free to modify this further to fit any additional details or features specific to your application!
